@@ -14,6 +14,7 @@ This app helps students and professionals explore career options, required skill
 * SQLite database integration for storing career paths.
 * Search and filter options to find careers based on skills.
 * Simple and lightweight deployment using **Streamlit**.
+* using AI search engine which gets the job updates in linkedin and also recommend the companies hiring
 
 ---
 
